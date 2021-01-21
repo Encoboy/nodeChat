@@ -2,7 +2,7 @@
   "name": "nodeChat",
   "version": "1.0.0",
   "dependencies": {
-    "socket.io": "~0.9.6",
+    "socket.io": "~2.4.0",
     "mime": "~2.4.4"
   }
 }
